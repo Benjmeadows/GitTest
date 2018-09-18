@@ -1,1 +1,1 @@
-This is my first Git project. Am I ready for the next part of the training?
+This is my first Git project. I am ready for the next part of the training!
